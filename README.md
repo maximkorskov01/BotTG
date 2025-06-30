@@ -18,6 +18,6 @@
 
 ## Контакты
 
-Бот: @QuizMasterBot
+Бот: @BrainQuestBot
 
 
